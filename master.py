@@ -16,3 +16,10 @@ disk_resize(disk_name,machine_name,target_gb)
 if True:
     message()
 print("End of the script")
+
+
+
+
+
+
+
